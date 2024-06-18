@@ -6,10 +6,10 @@
   border: 1px solid black;
 }
 
-.grid-div {
+/* .grid-div { */
   /* background-color: tomato; */
   /* border: 1px solid black; */
-}
+
 
 .change-color{
   background-color: hsl(0, 0%, 18%);
