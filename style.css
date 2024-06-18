@@ -1,13 +1,16 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  width: calc((var(--grid-size) * (20px + 1px + 1px + 4px)) + 1px);
+  width: 960px;
+  height: 960px;
+  border: 1px solid black;
 }
 
 .grid-div {
-  background-color: tomato;
-  border: 2px solid black;
-  width: 20px;
-  height: 20px;
-  margin: 1px;
+  /* background-color: tomato; */
+  /* border: 1px solid black; */
+}
+
+.change-color{
+  background-color: hsl(0, 0%, 18%);
 }
